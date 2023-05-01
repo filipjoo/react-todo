@@ -1,0 +1,10 @@
+@import url("https://maxcdn.bootstrapcdn.com/bootstrap/latest/css/bootstrap.min.css");
+
+.input-area {
+  background-color: #c1ffff;
+  width: 400px;
+  height: 500px;
+  border-radius: 8px;
+  padding: 8px;
+  margin: 8px;
+}
